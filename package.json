@@ -1,0 +1,11 @@
+{
+  "name": "backend_ser",
+  "version": "1.0.0",
+  "description": "a backend service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rittik Ghosh",
+  "license": "ISC"
+}
